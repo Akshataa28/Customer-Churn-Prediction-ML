@@ -37,7 +37,7 @@ Predicting customer churn is a crucial task for businesses to retain customers a
 1. **Data Loading & Inspection**
    - Loaded dataset using Pandas
    - Checked for null values and data types
-   - Converted `TotalCharges` to numeric and handled missing values
+   - Converted TotalCharges to numeric and handled missing values
 
 2. **Exploratory Data Analysis (EDA)**
    - Visualized categorical features vs. churn
