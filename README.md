@@ -79,5 +79,3 @@ Predicting customer churn is a crucial task for businesses to retain customers a
      - `model_columns.pkl`
 
 ---
-
-## **Folder Structure**
