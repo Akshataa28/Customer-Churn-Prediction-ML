@@ -17,7 +17,7 @@ Predicting customer churn is a crucial task for businesses to retain customers a
 
 ## **Dataset**
 
-- <a href="https://github.com/Akshataa28/Customer-Churn-Prediction-ML/blob/main/churn.csv">Churn.csv</a>
+- Dataset: <a href="https://github.com/Akshataa28/Customer-Churn-Prediction-ML/blob/main/churn.csv">churn.csv</a>
 - Total records: 7043
 - Columns: 21 (customer demographic, account, and usage information)
 
